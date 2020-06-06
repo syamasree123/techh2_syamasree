@@ -1,3 +1,6 @@
+/*File Name     :case1.cc
+  Author Name   :syama
+  Description   :appication_ */
 #include<iostream>
 #include<string>
 using namespace std;
